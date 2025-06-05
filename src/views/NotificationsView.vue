@@ -1,0 +1,1 @@
+<template><div class='text-white pt-4'>Notifications View</div></template>
