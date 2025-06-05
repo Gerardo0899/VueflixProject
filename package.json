@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "serve": "vite preview",
-    "build": "vue-cli-service build",
-    "deploy": "gh-pages -d dist"
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "dependencies": {
     "vue": "^3.4.0",
